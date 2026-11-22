@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**ilya-bushmelev/ilya-bushmelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Илья Бушмелев
+## Кратко обо мне
+Я чувак на Arch Linux который делает всякие разные проекты, от REPL-оболочки (Ilya's:Shell) до парсера выражений (expa.py).
+Сейчас я больше занимаюсь приватными репозиториями которые здесь упоминать не буду.
+## Мои проекты (публичные)
+- [Ilya's:Shell](https://github.com/ilya-bushmelev/Ilyas-Shell) - REPL-оболочка
+- [expa.py](https://github.com/ilya-bushmelev/expa.py) - Simple **EX**pression **PA**rser
+- и всё... (остальное велено не рассказывать)
+## Как я пишу код
+Я работаю в VSCode, раньше работал в VSCodium.
+От части времени сам пишу код, а потом беру ревью у ИИ.
+ИИ указывает на ошибки, а я прошу его исправить.
+## Как меня поддержать
+Участвуйте в разработке моих публичных проектов, буду благодарен.
